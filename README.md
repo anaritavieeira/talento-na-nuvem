@@ -17,3 +17,7 @@ objetivo: criar uma calculadora simples que realize as operações de soma, subt
 ## 🟣 exercício 3: calculadora interativa com opção de sair
 
 objetivo: criar uma calculadora interativa que realize as 4 operações principais, repetindo o processo até que o usuário escolha a opção de sair;
+
+## 🟣 exercício 4: contador de idade no ano atual
+
+objetivo: calcular a idade de uma pessoa a partir do ano de nascimento e do ano atual;
