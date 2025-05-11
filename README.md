@@ -22,4 +22,4 @@ objetivo: criar uma calculadora interativa que realize as 4 operações principa
 
 ## 🟣 exercício 4: contador de idade no ano atual
 
-objetivo: calcular a idade do usuário a partir do ano de nascimento e do ano atual;
+objetivo: calcular a idade do usuário a partir do ano do seu nascimento e do ano atual;
