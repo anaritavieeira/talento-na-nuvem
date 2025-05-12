@@ -1,3 +1,6 @@
+# objetivo: criar uma calculadora interativa que realize as 4 operações principais,
+# repetindo o processo até que o usuário escolha a opção de sair;
+
 def calculadora():
     while True:
         print("escolha uma operação:")

@@ -1,3 +1,5 @@
+# objetivo: calcular a idade do usuário a partir do ano do seu nascimento e do ano atual;
+
 nome = input("digite o seu nome: ")
 
 while True:

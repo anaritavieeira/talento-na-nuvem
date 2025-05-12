@@ -1,3 +1,7 @@
+# objetivo: criar uma calculadora simples 
+# que realize as operações de soma, subtração, multiplicação e divisão, 
+# de acordo com a escolha do usuário;
+
 def calculadora(num1, num2, operacao):
     if operacao == 1:
         resultado = num1 + num2

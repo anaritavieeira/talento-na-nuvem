@@ -1,3 +1,6 @@
+# objetivo: permitir que o usuário escolha um andar de 1 a 20,
+# excluindo o 13 andar, e garantir que a escolha seja válida;
+
 while True:
     andar = int(input("escolha um número de andar entre 1 e 20: "))
     
