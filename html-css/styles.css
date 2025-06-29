@@ -30,7 +30,7 @@ img {
 
 footer {
     background-color: #1d47c3;
-    color: white;
+    color:	#f4f4f4;
     text-align: center;
     padding: 15px;
 }
@@ -41,12 +41,12 @@ h1 {
 
 .botao {
     display: inline-block;
-    background-color: #1d47c3; /* azul do header */
-    color: #f4f4f4; /* texto branco */
+    background-color: #1d47c3; 
+    color: 	#f4f4f4; 
     padding: 8px 16px;
-    border-radius: 8px; /* mesmo border-radius das imagens */
+    border-radius: 8px; 
     text-decoration: none;
-    font-family: Roboto, sans-serif; /* mesma fonte */
+    font-family: Roboto, sans-serif;
     font-weight: 700;
     font-size: 16px;
     margin-bottom: 40px; 
