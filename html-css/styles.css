@@ -1,0 +1,62 @@
+body {
+    font-family: Roboto, sans-serif;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #1d47c3;
+    color: #f4f4f4;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+}
+
+main {
+    padding: 30px;
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+footer {
+    background-color: #1d47c3;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+h1 {
+    color: yellow;
+}
+
+.botao {
+    display: inline-block;
+    background-color: #1d47c3; /* azul do header */
+    color: #f4f4f4; /* texto branco */
+    padding: 8px 16px;
+    border-radius: 8px; /* mesmo border-radius das imagens */
+    text-decoration: none;
+    font-family: Roboto, sans-serif; /* mesma fonte */
+    font-weight: 700;
+    font-size: 16px;
+    margin-bottom: 40px; 
+    transition: background-color 0.3s ease;
+    text-align: center;
+    
+}
+
+.botao:hover {
+    background-color: #163a9e; 
+}
+
+#arredores, #curiosidades, #marcozero, #centroartesanato, #caisdosertao { margin-bottom: 80px; }
